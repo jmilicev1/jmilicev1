@@ -8,4 +8,4 @@
 >Trenutno sam u školi :school:
 >>Učim kako postati *Frontend developer*
 
-H<sub>Budemo kasnije završili</sub>O
+:joy:<sub>Budemo kasnije završili</sub>:joy:
